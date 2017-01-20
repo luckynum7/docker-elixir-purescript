@@ -8,6 +8,10 @@
 
 Docker image for CI, build w/ ~asdf, erlang, elixir~, ~nodejs~, ~psvm, purescript~
 
+** Supported tags and respective ~Dockerfile~ links
+
+   - ~latest~ [[https://github.com/luckynum7/docker-elixir-purescript/blob/master/Dockerfile][Dockerfile]]
+
 ** Try it
 
 #+BEGIN_SRC bash
