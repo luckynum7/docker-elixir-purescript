@@ -1,6 +1,3 @@
-\#+Docker Hub: <https://hub.docker.com/r/timefairy/docker-elixir-purescript/>
-
-
 # docker-elixir-purescript
 
 Docker image for CI, build w/ `asdf, erlang, elixir`, `nodejs`, `psvm, purescript` [timefairy/docker-elixir-purescript](https://hub.docker.com/r/timefairy/docker-elixir-purescript/)
