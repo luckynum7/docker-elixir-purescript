@@ -2,11 +2,12 @@
 #+DESCRIPTION: Docker image build w/ asdf-vm, psvm
 #+KEYWORDS:    psvm, purescript
 #+Repository:  https://github.com/luckynum7/docker-elixir-purescript
+#+Docker Hub:  https://hub.docker.com/r/timefairy/docker-elixir-purescript/
 #+OPTIONS:     toc:nil ^:{}
 
 * docker-elixir-purescript
 
-Docker image for CI, build w/ ~asdf, erlang, elixir~, ~nodejs~, ~psvm, purescript~
+Docker image for CI, build w/ ~asdf, erlang, elixir~, ~nodejs~, ~psvm, purescript~ [[https://hub.docker.com/r/timefairy/docker-elixir-purescript/][timefairy/docker-elixir-purescript]]
 
 ** Supported tags and respective ~Dockerfile~ links
 
