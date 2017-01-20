@@ -1,9 +1,10 @@
 FROM timefairy/docker-elixir-nodejs:lts
 
-ENV PATH /home/asdf/.psvm/current/bin/:$PATH
+ENV PATH /home/asdf/.psvm/current/bin:$PATH
 
 RUN /bin/bash -c "npm install -g psvm && \
-                  psvm install-latest && \
+                  psvm install v0.10.5 && \
+                  psvm use v0.10.5 && \
                   npm install -g pulp bower && \
                   rm -rf $HOME/.psvm/archives/* && \
                   rm -rf $HOME/.npm/*"
