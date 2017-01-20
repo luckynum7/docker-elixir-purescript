@@ -1,6 +1,6 @@
 # docker-elixir-purescript
 
-Docker image for CI, build w/ `asdf, erlang, elixir`, `nodejs`, `purescript`
+Docker image for CI, build w/ `asdf, erlang, elixir`, `nodejs`, `psvm, purescript`
 
 
 ## Try it
