@@ -11,3 +11,5 @@ docker run -ti --rm timefairy/docker-elixir-purescript:latest
 
 
 ## References
+
+1.  <https://github.com/ThomasCrevoisier/psvm-js>
